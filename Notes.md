@@ -2,14 +2,17 @@ Our first task this week is to make a podcast. Now I have severe perfomance anxi
 
 The second task this week was to look at sonification. I chose to use the data set provided to us again for times sake as the csv file I found on the subject matter I wanted to use needed severe cleaning up. Whoever formats the files in the government of canada needs to take this course because to an untrained eye it is mumbo jumbo up in there!
 
-With the roman data I used a Harp sound and an ocillator sound to potray my data as I feel like they kind of mimic the sound of money with the limited instrument choices in this app. I changed up the octaves each sound wave. The coin data I changed to be able to move 2 octaves as money has more value than other objects and the other roman materials may have cost less. The way the sounds oull apat from each other is very interesting as you can hear that certain areas had more coin and some had more. 
+With the roman data I used a Harp sound and an ocillator sound to potray my data as I feel like they kind of mimic the sound of money with the limited instrument choices in this app. I changed up the octaves each sound wave. The coin data I changed to be able to move 2 octaves as money has more value than other objects and the other roman materials may have cost less. The way the sounds pull apart from each other is very interesting as you can hear that certain areas had more coin and some had more. 
+
+You can listen to my Sonification [here](/sonification-roman-data.mp3)
 
 I think with sonification there is a place for it. It definitely would not be an accurate representation of data for certain things and many people don't understand the value certain aspects of music have. I feel this app also is bare bones of a music editing app and there are things I would have liked to do to make it a little nicer on the ear but over all I think for data comparisons and making data more approachable to people this is a good tool. I definitely think this could be used in different ways, such as comparing numbers in different army regimens You could give the "bad guys" a deeper, sound and give the "good guys" a happier sound while also changing the volume throughout to signify who is winning. The capabilities in this app are not that advanced but I know that there are ways of doing it and I am interested to see what others have done with all of the technology availible to the music community.
 
 After that I moved onto mapping, I began with StoryMaps. I chose to use my journey to becoming a historian as my topic to keep it simple, I know in the description they suggest using a topic that leads to big occourances and I feel as though there are major events in my life that influenced my journey. 
+
 <iframe src="https://uploads.knightlab.com/storymapjs/56da74fe7d95876bc82ebb9f9b1b85d6/the-journey-to-becoming-a-historian/index.html" frameborder="0" width="100%" height="800"></iframe>
 
-I next went of to web mapping. I opened Anaconda Command Prompt and created a new directory `mkdir web-map`
+I next went on to web mapping. I opened Anaconda Command Prompt and created a new directory `mkdir web-map`
 
 I then created a sublime text file and copied the code from our week 5 page and named it index.html
 ```
@@ -99,7 +102,7 @@ I also went into my file explorer and renamed my .geojson from there getting rid
 
 Also becuase I am still unsure of the proper way to embed the file into my repo I ave chosed to simply add in a screenshot. This is also for the sake of time as I created an extreme deadline for myself by not staying on top of my work and I am simply being realistic.
 
-![alt-text](wepmap-attempt2.png)
+![alt-text](webmap-attempt2.png)
 
 Once poweshell finished running the rerun command I moved on to the next portion of mapping. I added another layer following the instructions provided to us. Beginning with reopening the index.html sublime file. I then added a next line of code:
 ```
@@ -111,7 +114,7 @@ L.tileLayer('http://mapwarper.net/maps/tile/29435/{z}/{x}/{y}.png',
 
 I then save and refreshed the page I had open with my web map which ended up looking like this:
 
-![alt-text](web-map-2.png)
+![alt-text](wep-map-2.png)
 
 I then moved on to Georectifying a map. I chose to use the map given to us in the instructions for this week. I signed up for the georectifying web app and waited almost 2 hours to recieve an email confirmation to allow me to access the webpage. I will continue to wait while I move on to the next portion of the mapping which is adding a layer control button.
 
@@ -151,7 +154,7 @@ L.control.layers(baseMaps, overlayMaps).addTo(myMap);
 ```
 I then opened a new webpage and copied the following address to open my new wepmap: `http://localhost:8000/index2.html` and created a webmap that I a able to control variables in. 
 
-![alt-text](index2-wepmap.png)
+![alt-text](index2-webmap.png)
 
 I then moved on to add animation to my webmap.
 
@@ -298,7 +301,7 @@ I then clicked Rectify and set 5 control points. I on wellington in front of Par
 
 The final image I saw was this:
 
-![alt-text](Map-Warper-final.png)
+![alt-text](map-warper-final.png)
 
 The web address to this is also listed below
 
