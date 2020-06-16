@@ -290,7 +290,7 @@ myMap.addLayer(animatedMarker);
 ```
 finally I went to the webpage to see the work I had done at `http://localhost:8000/index3.html` on my PC the final product looked like this after the pin moved
 
-![alt-text](index3-wepmap.png)
+![alt-text](index3-webmap.png)
 
 I finally got the confirmation email for Map Warper and I moved onto that portion of week 5. I began by uploading the map of parliment hill from our week 5 work and filled in the metadata and uploaded the image of the map. 
 
