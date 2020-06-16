@@ -4,7 +4,7 @@ The second task this week was to look at sonification. I chose to use the data s
 
 With the roman data I used a Harp sound and an ocillator sound to potray my data as I feel like they kind of mimic the sound of money with the limited instrument choices in this app. I changed up the octaves each sound wave. The coin data I changed to be able to move 2 octaves as money has more value than other objects and the other roman materials may have cost less. The way the sounds pull apart from each other is very interesting as you can hear that certain areas had more coin and some had more. 
 
-You can listen to my Sonification [here](/Sonification-coins-vs-other.mp3)
+You can listen to my Sonification [here](/Sonification-coins-vs-other.mp4)
 
 I think with sonification there is a place for it. It definitely would not be an accurate representation of data for certain things and many people don't understand the value certain aspects of music have. I feel this app also is bare bones of a music editing app and there are things I would have liked to do to make it a little nicer on the ear but over all I think for data comparisons and making data more approachable to people this is a good tool. I definitely think this could be used in different ways, such as comparing numbers in different army regimens You could give the "bad guys" a deeper, sound and give the "good guys" a happier sound while also changing the volume throughout to signify who is winning. The capabilities in this app are not that advanced but I know that there are ways of doing it and I am interested to see what others have done with all of the technology availible to the music community.
 
